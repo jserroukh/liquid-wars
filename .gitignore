@@ -1,0 +1,32 @@
+# Gradle
+.gradle/
+build/
+
+# Java
+*.class
+*.log
+
+# IDE
+.idea/
+*.iml
+out/
+.vscode/
+
+# Eclipse
+.classpath
+.project
+.settings/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Maven (au cas où)
+target/
+
+# Archives / backups
+*.zip
+*_backup/
+EOF
+# Other build outputs
+bin/
